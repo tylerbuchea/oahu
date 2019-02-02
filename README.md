@@ -1,10 +1,10 @@
 # Oahu
 
-<iframe src="https://www.google.com/maps/d/embed?mid=140gPqk_yTmdIMQdBkTsRDZSbWMDh6RS7" width="640" height="480"></iframe>
+- [Google My Map](https://www.google.com/maps/d/edit?mid=140gPqk_yTmdIMQdBkTsRDZSbWMDh6RS7&ll=21.485947960666294%2C-158.00282975437517&z=11)
 
 ## Beaches
 
-## Neighbordhoods
+## Neighborhoods
 
 ## Schools
 
