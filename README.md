@@ -8,6 +8,23 @@
 
 ## Schools
 
+Oahu is comprised of four districts:
+- CEN (Central)
+- HON (Honolulu)
+- LEE (Leeward)
+- WIN (Windward)
+
+Best School District By Score
+- 236: CEN
+- 232: HON
+- 217: WIN
+- 216: LEE
+- 211: CHAR
+- 206: HAW
+- 204: KAU
+- 202: MAUI
+- 192: MAU
+
 - Elementary:
   - Pauoa Elementary
   - Pearl City Elementary
@@ -27,6 +44,8 @@
 - [Reddit - Is Manoa the only legit school?](https://www.reddit.com/r/UniversityofHawaii/comments/8bdhiv/is_uh_manoa_the_only_legit_school_on_oahu_that/)
 - [Reddit - Public high schools in Oahu](https://www.reddit.com/r/Hawaii/comments/7pk9l8/questionpublic_high_schools_on_oahu/)
 - [Hawaii Public Schools - AP classes by highschool](http://www.hawaiipublicschools.org/TeachingAndLearning/Testing/AdvancedPlacement/Pages/APcourses.aspx)
+- [Oahu DOE Map](http://www.hawaiipublicschools.org/ParentsAndStudents/EnrollingInSchool/SchoolFinder/Pages/Oahu-Map.aspx)
+- [North Shore Schools](https://www.hawaiiliving.com/blog/north-shore-oahu-schools/)
 
 ## Resources
 

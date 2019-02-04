@@ -14,14 +14,9 @@ rest="$@"
 if [ -z $script ] ; then
   echo "please enter a command after ./ops"
 
-elif [ $script == "bestSchoolDistrict" ] ; then
-  node --experimental-modules ./reports/bestSchoolDistrict.mjs
+# elif [ $script == "bestSchoolDistrict" ] ; then
 
-# elif [ $script == "test" ] ; then
-#   if [ $option ] && [ $option != "--watchAll" ] ; then
-#     yarn test "__tests__/$option-test.js" $rest
-#   else
-#     yarn test $option $rest
-#   fi
+else
+node --experimental-modules ./reports/$script.mjs
 
 fi
