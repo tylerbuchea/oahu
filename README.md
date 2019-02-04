@@ -6,6 +6,10 @@
 
 ## Neighborhoods
 
+## Resources
+
+- [Where to live on Oahu](https://www.hawaiilife.com/blog/where-to-live-on-oahu/)
+
 ## Schools
 
 Oahu is comprised of four districts:
